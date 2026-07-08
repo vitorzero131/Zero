@@ -1,0 +1,1 @@
+// Arquivo de renderização extraído do video-editor.zip

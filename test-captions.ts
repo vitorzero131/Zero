@@ -1,0 +1,1 @@
+// Arquivo extraído do video-editor.zip
